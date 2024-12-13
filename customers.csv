@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Age,Gender,SignupDate,Location
+1,Mary Smith,44,Female,11/24/2022,Houston
+2,Patricia Johnson,37,Female,2/27/2022,Houston
+3,James Williams,34,Male,1/13/2022,Houston
+4,Jennifer Jones,64,Female,5/21/2022,Phoenix
+5,Linda Brown,21,Female,5/6/2022,New York
+6,Elizabeth Davis,46,Female,4/25/2022,Phoenix
+7,Barbara Miller,61,Female,3/13/2022,New York
+8,Robert Wilson,38,Male,2/22/2022,New York
+9,John Moore,60,Male,12/13/2022,Chicago
+10,Michael Taylor,64,Male,10/7/2022,Houston
+11,Susan Anderson,45,Female,2/14/2022,Houston
+12,David Thomas,55,Male,10/30/2022,Houston
+13,William Jackson,49,Male,8/5/2022,Los Angeles
+14,Jessica White,31,Female,1/17/2022,Phoenix
+15,Richard Harris,51,Male,1/16/2022,Houston
+16,Sarah Martin,52,Female,2/17/2022,Los Angeles
+17,Joseph Thompson,57,Male,4/22/2022,Chicago
+18,Thomas Garcia,62,Male,4/30/2022,Chicago
+19,Charles Martinez,44,Male,9/16/2022,Houston
+20,Christopher Robinson,46,Male,11/5/2022,Houston
+21,Karen Clark,55,Female,1/14/2022,Chicago
+22,Daniel Rodriguez,44,Male,10/15/2022,Chicago
+23,Matthew Lewis,33,Male,4/12/2022,Chicago
+24,Nancy Lee,33,Female,11/29/2022,Los Angeles
+25,Anthony Walker,19,Male,12/26/2022,Phoenix
+26,Donald Hall,63,Male,10/7/2022,Phoenix
+27,Mark Allen,64,Male,8/3/2022,Chicago
+28,Paul Young,58,Male,4/23/2022,New York
+29,Lisa Hernandez,22,Female,8/18/2022,New York
+30,Margaret King,18,Female,10/29/2022,Los Angeles
+31,Steven Wright,36,Male,5/23/2022,Phoenix
+32,Andrew Lopez,35,Male,1/4/2022,Chicago
+33,Betty Hill,64,Female,3/23/2022,Chicago
+34,Sandra Scott,30,Female,12/24/2022,New York
+35,Ashley Green,35,Female,8/5/2022,Phoenix
+36,Dorothy Adams,26,Female,6/24/2022,Houston
+37,Kenneth Baker,34,Male,5/23/2022,Los Angeles
+38,Joshua Gonzalez,59,Male,3/21/2022,Los Angeles
+39,Kevin Nelson,19,Male,4/21/2022,Houston
+40,Kimberly Carter,43,Female,6/22/2022,Houston
+41,Emily Mitchell,55,Female,2/22/2022,Los Angeles
+42,Brian Perez,25,Male,2/17/2022,Houston
+43,Donna Roberts,29,Female,7/14/2022,Los Angeles
+44,George Turner,58,Male,2/19/2022,Houston
+45,Edward Phillips,30,Male,7/3/2022,Phoenix
+46,Ronald Campbell,58,Male,6/26/2022,Houston
+47,Michelle Parker,43,Female,11/6/2022,Chicago
+48,Timothy Evans,45,Male,5/16/2022,Phoenix
+49,Jason Edwards,25,Male,1/23/2022,Los Angeles
+50,Jeffrey Collins,59,Male,8/24/2022,Phoenix
+51,Carol Stewart,61,Female,10/2/2022,Los Angeles
+52,Amanda Sanchez,24,Female,3/5/2022,Phoenix
+53,Melissa Morris,54,Female,7/13/2022,Chicago
+54,Deborah Rogers,48,Female,2/10/2022,Chicago
+55,Ryan Reed,22,Male,10/10/2022,New York
+56,Jacob Cook,51,Male,5/31/2022,Phoenix
+57,Stephanie Morgan,55,Female,11/18/2022,Houston
+58,Rebecca Bell,34,Female,11/13/2022,Phoenix
+59,Gary Murphy,58,Male,7/5/2022,Phoenix
+60,Nicholas Bailey,28,Male,10/23/2022,Houston
+61,Eric Rivera,30,Male,4/9/2022,Los Angeles
+62,Sharon Cooper,36,Female,12/27/2022,Phoenix
+63,Laura Richardson,54,Female,2/5/2022,Chicago
+64,Jonathan Cox,53,Male,1/24/2022,New York
+65,Cynthia Howard,34,Female,12/5/2022,Phoenix
+66,Stephen Ward,36,Male,4/27/2022,Houston
+67,Larry Torres,37,Male,5/29/2022,Houston
+68,Kathleen Peterson,36,Female,2/10/2022,New York
+69,Amy Gray,34,Female,4/30/2022,Los Angeles
+70,Justin Ramirez,55,Male,2/21/2022,Chicago
+71,Scott James,25,Male,7/14/2022,Houston
+72,Angela Watson,59,Female,5/23/2022,Los Angeles
+73,Shirley Brooks,62,Female,8/21/2022,New York
+74,Anna Kelly,19,Female,11/22/2022,Houston
+75,Ruth Sanders,37,Female,7/6/2022,Chicago
+76,Brenda Price,56,Female,3/25/2022,Chicago
+77,Pamela Bennett,63,Female,7/9/2022,Chicago
+78,Nicole Wood,32,Female,7/1/2022,Houston
+79,Brandon Barnes,24,Male,4/18/2022,New York
+80,Benjamin Ross,26,Male,12/10/2022,Los Angeles
+81,Katherine Henderson,30,Female,5/17/2022,New York
+82,Samantha Coleman,42,Female,12/26/2022,New York
+83,Christine Jenkins,48,Female,12/16/2022,Phoenix
+84,Samuel Perry,45,Male,11/28/2022,Houston
+85,Frank Powell,58,Male,2/6/2022,New York
+86,Emma Long,39,Female,11/8/2022,Houston
+87,Catherine Patterson,19,Female,11/22/2022,Los Angeles
+88,Debra Hughes,35,Female,3/29/2022,Phoenix
+89,Virginia Flores,53,Female,10/1/2022,Houston
+90,Gregory Washington,60,Male,5/6/2022,Chicago
+91,Raymond Butler,37,Male,3/25/2022,Houston
+92,Alexander Simmons,60,Male,8/25/2022,Houston
+93,Rachel Foster,51,Female,7/14/2022,Chicago
+94,Janet Gonzales,30,Female,5/19/2022,Phoenix
+95,Patrick Bryant,35,Male,11/24/2022,Houston
+96,Heather Alexander,27,Female,12/19/2022,Chicago
+97,Jack Russell,43,Male,10/13/2022,New York
+98,Maria Griffin,37,Female,4/23/2022,Chicago
+99,Dennis Diaz,30,Male,12/17/2022,Los Angeles
+100,Jerry Hayes,49,Male,6/16/2022,Houston
